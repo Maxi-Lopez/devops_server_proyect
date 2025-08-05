@@ -1,0 +1,8 @@
+{
+  "name": "devops_server_proyect",
+  "version": "1.0.0",
+  "main": "calc.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
